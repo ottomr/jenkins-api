@@ -22,4 +22,5 @@ public class RestService {
     public String test3Func() {
         return "husnu test3";
     }
+
 }
