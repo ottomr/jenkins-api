@@ -11,4 +11,10 @@ public class RestService {
     public String testFunc() {
         return "husnu test1";
     }
+
+
+    @RequestMapping("/test2")
+    public String test2Func() {
+        return "husnu test2";
+    }
 }
